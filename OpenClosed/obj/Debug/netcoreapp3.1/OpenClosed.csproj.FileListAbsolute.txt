@@ -1,0 +1,14 @@
+C:\Users\Ashutosh.chaturvedi\SOLID_Principles\OpenClosed\bin\Debug\netcoreapp3.1\OpenClosed.exe
+C:\Users\Ashutosh.chaturvedi\SOLID_Principles\OpenClosed\bin\Debug\netcoreapp3.1\OpenClosed.deps.json
+C:\Users\Ashutosh.chaturvedi\SOLID_Principles\OpenClosed\bin\Debug\netcoreapp3.1\OpenClosed.runtimeconfig.json
+C:\Users\Ashutosh.chaturvedi\SOLID_Principles\OpenClosed\bin\Debug\netcoreapp3.1\OpenClosed.runtimeconfig.dev.json
+C:\Users\Ashutosh.chaturvedi\SOLID_Principles\OpenClosed\bin\Debug\netcoreapp3.1\OpenClosed.dll
+C:\Users\Ashutosh.chaturvedi\SOLID_Principles\OpenClosed\bin\Debug\netcoreapp3.1\OpenClosed.pdb
+C:\Users\Ashutosh.chaturvedi\SOLID_Principles\OpenClosed\obj\Debug\netcoreapp3.1\OpenClosed.csproj.AssemblyReference.cache
+C:\Users\Ashutosh.chaturvedi\SOLID_Principles\OpenClosed\obj\Debug\netcoreapp3.1\OpenClosed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ashutosh.chaturvedi\SOLID_Principles\OpenClosed\obj\Debug\netcoreapp3.1\OpenClosed.AssemblyInfoInputs.cache
+C:\Users\Ashutosh.chaturvedi\SOLID_Principles\OpenClosed\obj\Debug\netcoreapp3.1\OpenClosed.AssemblyInfo.cs
+C:\Users\Ashutosh.chaturvedi\SOLID_Principles\OpenClosed\obj\Debug\netcoreapp3.1\OpenClosed.csproj.CoreCompileInputs.cache
+C:\Users\Ashutosh.chaturvedi\SOLID_Principles\OpenClosed\obj\Debug\netcoreapp3.1\OpenClosed.dll
+C:\Users\Ashutosh.chaturvedi\SOLID_Principles\OpenClosed\obj\Debug\netcoreapp3.1\OpenClosed.pdb
+C:\Users\Ashutosh.chaturvedi\SOLID_Principles\OpenClosed\obj\Debug\netcoreapp3.1\OpenClosed.genruntimeconfig.cache
