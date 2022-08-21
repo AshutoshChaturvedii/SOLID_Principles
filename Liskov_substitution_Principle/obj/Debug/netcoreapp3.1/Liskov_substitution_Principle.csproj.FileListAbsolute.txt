@@ -1,0 +1,14 @@
+C:\Users\Ashutosh.chaturvedi\SOLID_Principles\SOLID_Principles\Liskov_substitution_Principle\bin\Debug\netcoreapp3.1\Liskov_substitution_Principle.exe
+C:\Users\Ashutosh.chaturvedi\SOLID_Principles\SOLID_Principles\Liskov_substitution_Principle\bin\Debug\netcoreapp3.1\Liskov_substitution_Principle.deps.json
+C:\Users\Ashutosh.chaturvedi\SOLID_Principles\SOLID_Principles\Liskov_substitution_Principle\bin\Debug\netcoreapp3.1\Liskov_substitution_Principle.runtimeconfig.json
+C:\Users\Ashutosh.chaturvedi\SOLID_Principles\SOLID_Principles\Liskov_substitution_Principle\bin\Debug\netcoreapp3.1\Liskov_substitution_Principle.runtimeconfig.dev.json
+C:\Users\Ashutosh.chaturvedi\SOLID_Principles\SOLID_Principles\Liskov_substitution_Principle\bin\Debug\netcoreapp3.1\Liskov_substitution_Principle.dll
+C:\Users\Ashutosh.chaturvedi\SOLID_Principles\SOLID_Principles\Liskov_substitution_Principle\bin\Debug\netcoreapp3.1\Liskov_substitution_Principle.pdb
+C:\Users\Ashutosh.chaturvedi\SOLID_Principles\SOLID_Principles\Liskov_substitution_Principle\obj\Debug\netcoreapp3.1\Liskov_substitution_Principle.csproj.AssemblyReference.cache
+C:\Users\Ashutosh.chaturvedi\SOLID_Principles\SOLID_Principles\Liskov_substitution_Principle\obj\Debug\netcoreapp3.1\Liskov_substitution_Principle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ashutosh.chaturvedi\SOLID_Principles\SOLID_Principles\Liskov_substitution_Principle\obj\Debug\netcoreapp3.1\Liskov_substitution_Principle.AssemblyInfoInputs.cache
+C:\Users\Ashutosh.chaturvedi\SOLID_Principles\SOLID_Principles\Liskov_substitution_Principle\obj\Debug\netcoreapp3.1\Liskov_substitution_Principle.AssemblyInfo.cs
+C:\Users\Ashutosh.chaturvedi\SOLID_Principles\SOLID_Principles\Liskov_substitution_Principle\obj\Debug\netcoreapp3.1\Liskov_substitution_Principle.csproj.CoreCompileInputs.cache
+C:\Users\Ashutosh.chaturvedi\SOLID_Principles\SOLID_Principles\Liskov_substitution_Principle\obj\Debug\netcoreapp3.1\Liskov_substitution_Principle.dll
+C:\Users\Ashutosh.chaturvedi\SOLID_Principles\SOLID_Principles\Liskov_substitution_Principle\obj\Debug\netcoreapp3.1\Liskov_substitution_Principle.pdb
+C:\Users\Ashutosh.chaturvedi\SOLID_Principles\SOLID_Principles\Liskov_substitution_Principle\obj\Debug\netcoreapp3.1\Liskov_substitution_Principle.genruntimeconfig.cache
